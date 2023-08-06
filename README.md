@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Angela Ayivi - [Github](https://github.com/bloominghowl) / [Twitter](https://twitter.com/Princess_kafui)
-Bernard Appiah - [Github](https://github.com/Borngod) / [Twitter](https://twitter.com/)
+Bernard Appiah - [Github](https://github.com/Borngod) / [Twitter](https://twitter.com/Borngod)
 
 Second part of Airbnb: Joann Vuong
 ## License
